@@ -4,11 +4,12 @@
   "job": "Desenvolvedor Full Stack",
   "location": "Recife - PE, Brasil",
   "phone": "(81) 9 9386-6816",
-  "email": "arthurvinicius@email.com",
+  "email": "dev.arthurvsm@gmail.com",
 
   "skills": {
     "hardSkills": [
       { "name": "Java", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/java.png" },
+      { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/spring-boot.png" },
       { "name": "React", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/react.png" },
       { "name": "Node.js", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/nodejs.png" },
       { "name": "Python", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/python.png" },
@@ -32,8 +33,7 @@
   "portfolio": [
     {
       "name": "Sempre Nicea",
-      "url": "sempre-nicea-front.vercel.app",
-      "github": true
+      "url": "sempre-nicea-front.vercel.app"
     },
     {
       "name": "Yu-Gi-Oh! Game (HTML, CSS, JS)",
