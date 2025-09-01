@@ -1,0 +1,62 @@
+{
+  "name": "Arthur Vinicius De Sena Moraes",
+  "photo": "assets/img/my-photo.jpg",
+  "job": "Desenvolvedor Full Stack",
+  "location": "Recife - PE, Brasil",
+  "phone": "(81) 9 9386-6816",
+  "email": "arthurvinicius@email.com",
+
+  "skills": {
+    "hardSkills": [
+      { "name": "Java", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
+      { "name": "Spring Boot", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" },
+      { "name": "React", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+      { "name": "Node.js", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+      { "name": "Python", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+      { "name": "SQL Server", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" },
+      { "name": "Flutter", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Comunicação",
+      "Organização",
+      "Aprendizado rápido"
+    ]
+  },
+
+  "languages": [
+    "Português - Nativo",
+    "Inglês - Intermediário"
+  ],
+
+  "portfolio": [
+    {
+      "name": "Sempre Nicea",
+      "url": "sempre-nicea-front.vercel.app",
+      "github": true
+    },
+    {
+      "name": "Yu-Gi-Oh! Game (HTML, CSS, JS)",
+      "url": "https://github.com/lngg21/YuGiOh-Game",
+      "github": true
+    },
+  ],
+
+  "professionalExperience": [
+    {
+      "name": "Projetos acadêmicos e Pessoais",
+      "period": "2022 - Atual",
+      "description": "Desenvolvimento de aplicações web e mobile utilizando React, Node.js, Java, Spring Boot, Python, SQL Server e Flutter."
+    },
+    {
+      "name": "Graduação em Sistemas para Internet - Católica",
+<<<<<<< HEAD
+      "period": "2022 - 2025",
+=======
+      "period": "2022 - 2025"
+>>>>>>> 8c886a4 (Atualizando os dados)
+
+    }
+  ]
+}
