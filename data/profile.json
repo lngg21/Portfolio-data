@@ -8,8 +8,7 @@
 
   "skills": {
     "hardSkills": [
-      { "name": "Java", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/nodejs.png" },
-      { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/refs/heads/main/data/imgs/spring-boot.svg" },
+      { "name": "Java", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/java.png" },
       { "name": "React", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/react.png" },
       { "name": "Node.js", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/nodejs.png" },
       { "name": "Python", "logo": "https://raw.githubusercontent.com/lngg21/Portfolio-data/main/data/imgs/python.png" },
