@@ -40,7 +40,7 @@
       "name": "Yu-Gi-Oh! Game (HTML, CSS, JS)",
       "url": "https://github.com/lngg21/YuGiOh-Game",
       "github": true
-    },
+    }
   ],
 
   "professionalExperience": [
@@ -50,13 +50,8 @@
       "description": "Desenvolvimento de aplicações web e mobile utilizando React, Node.js, Java, Spring Boot, Python, SQL Server e Flutter."
     },
     {
-      "name": "Graduação em Sistemas para Internet - Católica",
-<<<<<<< HEAD
-      "period": "2022 - 2025",
-=======
+      "name": "Graduação em Sistemas para Internet - Universidade Católica de Pernambuco",
       "period": "2022 - 2025"
->>>>>>> 8c886a4 (Atualizando os dados)
-
     }
   ]
 }
